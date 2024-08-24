@@ -1,38 +1,70 @@
-# 🌲 Forest Adventure Game
+<h1 align="center">🌲 Forest Adventure Game</h1>
 
 <p align="center">
-  <strong>Welcome to the Forest Adventure Game</strong>
+  <b>A thrilling command-line adventure game set in a mysterious forest!</b>
 </p>
 
-<p>
-  In this thrilling command-line game, you are on an adventure in a dark and mysterious forest. At each turn, you must choose between three paths. However, beware, for one of these paths hides the fearsome monster <strong>KONG</strong>. Will you be brave enough to face the challenge, or will you find the safer route?
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.0-brightgreen.svg" alt="Version">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+  <img src="https://img.shields.io/badge/Build-TypeScript-blue.svg" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Platform-Node.js-6DA55F.svg" alt="Node.js">
 </p>
 
-## 🚀 How It Works
+<p align="center">
+  <b>Author:</b> <strong>M.A.S</strong> <br>
+  <b>Quick Install:</b> <code>npx mali24-adventure-game</code>
+</p>
+
+---
+
+<h2>🚀 Game Overview</h2>
+
 <ul>
-  <li>You will be prompted to choose between three different paths in the forest.</li>
-  <li>One of the paths contains the terrifying monster <strong>KONG</strong>.</li>
-  <li>If you enter KONG's path, prepare to fight your way out!</li>
+  <li>🎮 Explore a dense forest where you face three paths at every turn.</li>
+  <li>⚠️ Beware! One path contains the fearsome monster, <strong>KONG</strong>.</li>
+  <li>🗡️ If you choose the wrong path, prepare for a battle with KONG!</li>
 </ul>
 
-## 🛠 Technologies Used
-<p>
-  <strong>Built with:</strong>
-</p>
+<h2>🛠️ Technologies Used</h2>
+
 <ul>
-  <li>TypeScript</li>
-  <li>Node.js</li>
-  <li>Inquirer.js</li>
-  <li>Chalk</li>
+  <li><strong>TypeScript</strong> - Ensures reliable and maintainable code.</li>
+  <li><strong>Node.js</strong> - Efficiently powers the game in the command line.</li>
+  <li><strong>Inquirer.js</strong> - Provides an interactive user experience for choosing paths.</li>
+  <li><strong>Chalk</strong> - Adds colorful text and styling to the command line interface.</li>
 </ul>
 
-## 📦 Installation
+<h2>⚙️ Installation and Usage</h2>
+
 <p>
-  You can easily start the game using the following NPX command:
+  To start your adventure, install and run the game using the following command:
 </p>
 
-```bash
-npx mali24-adventure-game  
-👤 Author
-<p> Made with by <strong>M.A.S</strong>. </p>
- 
+<pre>
+<code>npx mali24-adventure-game</code>
+</pre>
+
+<h2>📖 Gameplay Example</h2>
+
+<pre>
+<code>
+$ npx mali24-adventure-game
+? Which path will you choose? (1, 2, or 3)
+> 2
+You enter the path, and suddenly KONG appears! Prepare to fight!
+</code>
+</pre>
+
+<h2>📌 Key Features</h2>
+
+<ul>
+  <li>Interactive text-based gameplay with multiple paths.</li>
+  <li>Face the monster KONG if you make the wrong choice.</li>
+  <li>Built with TypeScript for improved stability and performance.</li>
+  <li>Colorful and dynamic user prompts powered by Inquirer.js and Chalk.</li>
+</ul>
+
+<p align="center">Made with ❤️ by <strong>M.A.S</strong></p>
+
+
