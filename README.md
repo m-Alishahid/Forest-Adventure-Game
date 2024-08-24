@@ -32,6 +32,6 @@
 </p>
 
 ```bash
-npx mali24-adventure-game  <br>
+npx mali24-adventure-game  
 <p align="center">Made with ❤️ by <strong>M.A.S</strong></p> 
  
