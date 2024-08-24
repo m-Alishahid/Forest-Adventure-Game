@@ -33,5 +33,6 @@
 
 ```bash
 npx mali24-adventure-game  
-<center>Made with by <b>M.a.s</b>  </center>
+👤 Author
+<p> Made with by <strong>M.A.S</strong>. </p>
  
